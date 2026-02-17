@@ -1,0 +1,9 @@
+# Simple Requirements - Works with Python 3.14
+# No ChromaDB needed!
+
+ollama>=0.1.0
+websockets>=12.0
+
+# Optional: Audio support (can be skipped)
+# openai-whisper
+# gtts
